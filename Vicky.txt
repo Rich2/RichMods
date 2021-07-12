@@ -1,0 +1,8 @@
+top of Germany
+color = { 147 103 110} 
+
+top of Prussia
+color { 0 49 83 } #244 232 109
+
+top of North German Fed
+color = { 143 168 154 }
